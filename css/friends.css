@@ -1,0 +1,32 @@
+.friends .friends__plus {
+  padding: 20px 0px;
+  border-bottom: 1px solid #f7f7f7;
+  border-top: 1px solid #f7f7f7;
+  margin: 20px 0px;
+}
+
+.friends__plus .friends__title {
+  font-size: 14px;
+  opacity: 0.5;
+  margin-bottom: 10px;
+}
+
+.friends__list .friends__title {
+  font-size: 14px;
+  opacity: 0.5;
+  margin-bottom: 10px;
+}
+
+.freind__add-btn {
+  display: flex;
+  padding: 10px 15px;
+  justify-items: center;
+  align-items: center;
+  background-color: #f5f5f5;
+  border-radius: 5px;
+}
+
+.friend--lg:hover {
+  background-color: #d6d6d6;
+  border-radius: 10px;
+}
